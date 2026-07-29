@@ -1,0 +1,18 @@
+# MATLAB files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB data files
+*.mat
+
+# Simulink files
+*.slxc
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
